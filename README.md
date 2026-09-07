@@ -1,4 +1,4 @@
-## The Zevo Team Collaboration Project Chapter
+## The Zevo Team Collaboration in Project Chapter
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/86072324-4102-4a7b-8cce-c77847e70ed9" />
 
