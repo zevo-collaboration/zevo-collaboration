@@ -1,6 +1,6 @@
 ## The Zevo Team Collaboration in Israel Project Chapter
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/10ee4297-9173-4d91-bdd7-d09c4b2a17d1" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c665b5cb-52ea-4027-a7e4-c020197dfa04" />
 
 <!--
 **zevo-global/zevo-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
