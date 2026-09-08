@@ -1,5 +1,7 @@
 ## The Zevo® Team Collaboration in Israel Project Chapter
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2b2e13ed-5179-47dd-ae43-d4942e6f8f30" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a9adc924-fd10-4da4-a70a-b542610a353c" />
 
 <!--
