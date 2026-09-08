@@ -1,7 +1,5 @@
 ## The Zevo® Team Collaboration in Israel Project Chapter
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dfe5e4e4-58c3-4e92-ab5b-a1aa3ccd7b1b" />
-
 <!--
 **zevo-global/zevo-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,23 +17,35 @@ Here are some ideas to get you started:
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c665b5cb-52ea-4027-a7e4-c020197dfa04" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dfe5e4e4-58c3-4e92-ab5b-a1aa3ccd7b1b" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c7795d06-118d-4ccb-b281-c1c3b93ad43d" />
 
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/57ba0e26-51a4-4dce-8417-67daf43d31bc" />
 
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1bf48e67-97e7-46db-965d-06a8797b2fe8" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88612057-ab58-4548-b0fe-6193d1a74012" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2b2e13ed-5179-47dd-ae43-d4942e6f8f30" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a9adc924-fd10-4da4-a70a-b542610a353c" />
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c665b5cb-52ea-4027-a7e4-c020197dfa04" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88612057-ab58-4548-b0fe-6193d1a74012" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2b2e13ed-5179-47dd-ae43-d4942e6f8f30" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a9adc924-fd10-4da4-a70a-b542610a353c" />
 
 ---
 
