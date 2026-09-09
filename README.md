@@ -22,6 +22,10 @@
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4578307b-1c17-4822-ac1b-53a9aacc801c" />
+
+---
+
 <!--
 **zevo-global/zevo-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
