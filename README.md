@@ -1,5 +1,23 @@
 ## The Zevo® Team Collaboration in Global Project Chapter
 
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5d20c7c6-58a6-4413-a74e-0d37ccb075d0" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5c7940a9-590c-40a8-a4ae-5456f26dc460" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/86072324-4102-4a7b-8cce-c77847e70ed9" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e56b4f34-c6b9-4531-82c3-b4ca0b494759" />
+
+---
+
 <!--
 **zevo-global/zevo-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,22 +36,6 @@ Here are some ideas to get you started:
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c665b5cb-52ea-4027-a7e4-c020197dfa04" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5d20c7c6-58a6-4413-a74e-0d37ccb075d0" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5c7940a9-590c-40a8-a4ae-5456f26dc460" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/86072324-4102-4a7b-8cce-c77847e70ed9" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e56b4f34-c6b9-4531-82c3-b4ca0b494759" />
 
 ---
 
