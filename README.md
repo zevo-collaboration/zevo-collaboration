@@ -34,10 +34,6 @@
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8f937c0f-ab01-4302-aa8a-e75e501d9dfa" />
-
----
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4578307b-1c17-4822-ac1b-53a9aacc801c" />
 
 ---
