@@ -1,4 +1,8 @@
-## The Zevo® Team Collaboration in Israeli Project Chapter
+## The Zevo® Team Collaboration in Global Project Chapter
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ea853bc-bad0-47ab-a0bb-c98faa0620c6" />
 
 ---
 
