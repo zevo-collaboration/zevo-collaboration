@@ -108,6 +108,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/550818bb-bc75-4d67-97f2-f3e12d1cd095" />
 
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/10e3b28d-8e42-4f5f-94bb-f9f8fe0e920f" />
+
 <!--
 **zevo-global/zevo-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -122,6 +126,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/600ed808-fea5-471d-904d-7b3b04159e00" />
 
