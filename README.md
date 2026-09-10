@@ -2,10 +2,6 @@
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a5c57bae-0cda-4121-8aa8-77e4caa90f86" />
-
----
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5d20c7c6-58a6-4413-a74e-0d37ccb075d0" />
 
 ---
@@ -19,6 +15,25 @@
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e56b4f34-c6b9-4531-82c3-b4ca0b494759" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a5c57bae-0cda-4121-8aa8-77e4caa90f86" />
+
+<!--
+**zevo-global/zevo-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ---
 
@@ -115,21 +130,6 @@
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/10e3b28d-8e42-4f5f-94bb-f9f8fe0e920f" />
-
-<!--
-**zevo-global/zevo-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
 
