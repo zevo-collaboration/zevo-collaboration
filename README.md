@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b0fa77f0-877f-48e3-9ca1-8b4c3b5ee0c9" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8eb38821-c371-4e19-b9fd-f645f3cbaa8b" />
 
 ---
