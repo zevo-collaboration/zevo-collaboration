@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/03f15a77-ef8e-498c-a4e6-e6866bcab1c9" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c855300c-91a3-4e10-bdb9-eed8314643e1" />
 
 ---
