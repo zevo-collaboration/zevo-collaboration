@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a7bd77b4-55c4-415e-949f-d8305f43f36e" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d80c4912-3bdb-4a9f-9377-baf15e4e417c" />
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d80c4912-3bdb-4a9f-9377-baf15e4e417c" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a7bd77b4-55c4-415e-949f-d8305f43f36e" />
 
 ---
 
