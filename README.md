@@ -1,4 +1,4 @@
-## The Zevo Technologies Enterprise Company 
+## The Zevo Technologies Enterprise Company™ 
 
 ---
 
