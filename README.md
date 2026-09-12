@@ -26,6 +26,10 @@
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e56b4f34-c6b9-4531-82c3-b4ca0b494759" />
+
+---
+
 <!--
 **zevo-global/zevo-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/86072324-4102-4a7b-8cce-c77847e70ed9" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e56b4f34-c6b9-4531-82c3-b4ca0b494759" />
 
 ---
 
