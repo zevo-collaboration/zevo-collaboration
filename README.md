@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 
 ---
 
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5c7940a9-590c-40a8-a4ae-5456f26dc460" />
 
 ---
