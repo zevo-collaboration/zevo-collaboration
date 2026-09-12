@@ -43,30 +43,6 @@ Here are some ideas to get you started:
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4763ee6b-8903-43e2-a279-348ed4a10411" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87e0f661-4044-4801-8c84-f5f44d719f2d" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/83e3057d-4522-4cde-986e-198f628d2cfc" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b915e7ce-d881-4db5-89c2-f5b02da6566d" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8b6bc392-9a19-42e9-9d2c-fe3ec1c00b5c" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/df7a3781-c058-47f9-b377-4b1fb6d1bf75" />
-
----
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5c7940a9-590c-40a8-a4ae-5456f26dc460" />
 
 ---
